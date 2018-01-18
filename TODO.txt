@@ -1,0 +1,3 @@
+TODO           HIGHSCORE
+TODO           LET DRAGON DROP HP "BAG"
+TODO           IMPLEMENT FOV
