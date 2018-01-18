@@ -28,7 +28,7 @@ int main(int argc, char **argv) {
     database::Entry *en;
     std::map<std::string, std::string> queryData;
 
-    qb = new database::Connection(database::Connection::MYSQL, "127.0.0.1", "roguelike", "root", "julian1");
+    
 
     if(!qb->Connect()){
         std::cout << "Cannot establish connection" << std::endl;
